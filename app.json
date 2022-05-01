@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/hleiur345rwr/happy",
-  "repository": "https://github.com/hleiur345rwr/happy",
+  "website": "https://github.com/684fcx/wsrfd",
+  "repository": "https://github.com/684fcx/wsrfd",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
